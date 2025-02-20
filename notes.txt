@@ -1,0 +1,27 @@
+1) Express 
+
+is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It is designed for building web applications and APIs. Here are some key features of Express:
+
+1. **Middleware**: Express has a robust set of middleware functions 
+that can be used to handle various tasks such as parsing request bodies, handling cookies, and managing sessions.
+
+2. **Routing**: Express provides a powerful routing mechanism that allows you to define routes
+ for different HTTP methods and URL patterns.
+
+3. **Template Engines**: Express supports various template engines like Pug, EJS, and Handlebars, 
+which can be used to generate dynamic HTML pages.
+
+4. **Error Handling**: Express has a built-in error handling mechanism that makes it easy to 
+manage errors in your application.
+
+5. **Extensibility**: Express is highly extensible and can be easily integrated with other libraries
+ and frameworks.
+
+6. **Performance**: Express is lightweight and fast, making it suitable for building high-performance
+ web applications.
+
+To get started with Express, you need to install it using npm:
+
+2) nodemon not reload
+3) dot env  
+
